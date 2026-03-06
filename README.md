@@ -61,20 +61,6 @@ class AboutMe:
 
 ---
 
-## 📊 `github stats`
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=fff5f9&title_color=d68fa8&icon_color=c9b8ff&text_color=9b6dff&ring_color=ffb3d9)
-&nbsp;
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=fff5f9&title_color=d68fa8&text_color=9b6dff)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=fff5f9&ring=ffb3d9&fire=d68fa8&currStreakLabel=9b6dff&sideLabels=9b6dff&currStreakNum=d68fa8&sideNums=d68fa8&dates=c0a0cc)
-
-</div>
-
----
-
 ## 💌 `find me`
 
 <div align="center">
