@@ -59,7 +59,9 @@ class AboutMe:
 | 💬 | **ask me about** → Python · clean code · how to start |
 | ⚡ | **fun fact** → `[ I believe in a decentralized world with kind AI ]` |
 
+
 ---
+
 
 ## 💌 `find me`
 
@@ -69,7 +71,11 @@ class AboutMe:
 [![Instagram](https://img.shields.io/badge/Instagram-e8d5ff?style=for-the-badge&logo=instagram&logoColor=9b6dff)](https://instagram.com/shanti.sabai)
 
 </div>
+
+
 ---
+
+
 <div align="center">
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
@@ -78,5 +84,4 @@ class AboutMe:
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ffb3d9,ffd6ec,c9b8ff&height=100&section=footer)
 </div>
