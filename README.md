@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=e0c3fc,c9b8ff,b8a9ff,d4b8ff,f0e6ff&height=200&section=header&text=hello%20world!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20github%20page%20✨&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=venom&color=e0c3fc,c9b8ff,b8a9ff,d4b8ff,f0e6ff&height=200&section=header&text=Hello%20world!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20github%20page%20✨&descAlignY=58&descSize=16)
 
 </div>
 
