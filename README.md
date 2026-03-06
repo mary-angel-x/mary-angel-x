@@ -73,7 +73,10 @@ class AboutMe:
 <div align="center">
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
+
 *be happy and learn more <3 🩷*
+
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffb3d9,ffd6ec,c9b8ff&height=100&section=footer)
 </div>
