@@ -68,19 +68,12 @@ class AboutMe:
 [![Telegram](https://img.shields.io/badge/Telegram-ffb3d9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samadhi404)
 [![Instagram](https://img.shields.io/badge/Instagram-e8d5ff?style=for-the-badge&logo=instagram&logoColor=9b6dff)](https://instagram.com/shanti.sabai)
 
-
 </div>
-
 ---
-
 <div align="center">
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
-
 *be happy and learn more <3 🩷*
-
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffb3d9,ffd6ec,c9b8ff&height=100&section=footer)
-
 </div>
