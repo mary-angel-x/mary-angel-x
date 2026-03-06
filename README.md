@@ -1,137 +1,100 @@
-<!-- ✨ HEADER ✨ -->
 <div align="center">
 
-```
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=FF90C2&center=true&vCenter=true&width=600&lines=✿+hello+world!+✿;welcome+to+my+page+˚✧₊⁺;i+love+python+%26+coding+☆;thanks+for+visiting!+♡" alt="Typing SVG" />
-
-```
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
-```
-
-<!-- badges -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&style=flat&color=ff90c2)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&color=b5d5f5&label=followers)
-![stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat&color=fff0a0&label=⭐+stars)
+![header](https://capsule-render.vercel.app/api?type=venom&color=e0c3fc,c9b8ff,b8a9ff,d4b8ff,f0e6ff&height=200&section=header&text=hello%20world!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20github%20page%20✨&descAlignY=58&descSize=16)
 
 </div>
 
 ---
 
-<!-- ✿ ABOUT ME ✿ -->
 <div align="center">
 
-### 🌸 ˚ · . ˚ · . about me . · ˚ . · ˚ 🌸
+`✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
+
+**she/her · python teacher · curios and mindful · AI dreamer · developer · vegan**
+
+`✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
 
 </div>
+
+---
+
+## 🌸 `about me`
 
 ```python
-class Me:
-    name       = "YOUR NAME"          # ← поменяй!
-    role       = "Python Teacher 🐍"
-    location   = "🌍 Earth"
-    hobbies    = ["coding", "teaching", "aesthetic things ✨"]
-    currently  = "learning something new every day 📖"
-    fun_fact   = "I think Python is cute 🐍💕"
+class AboutMe:
+    name        = "MARIA"
+    role        = "Python Teacher 🐍 and developer"
+    based_in    = "🌍 Earth"
+    languages   = ["Python 🐍","JavaScript","C", "English", "Russian"]
+    hobbies     = ["coding", "teaching", "aesthetic things ✨", "learning", "dream"]
+    currently   = "create any projects and learn ML "
+    belief      = "Consciousness is like a protocol"
+    fun_fact    = "I love anime and palying Dota2"
 ```
+
+---
+
+## 💾 `skills & tools`
 
 <div align="center">
 
-| 💌 | about |
-|:---:|:------|
-| 🐍 | python teacher & eternal learner |
-| 📚 | i love making code easy to understand |
-| 🌸 | aesthetic enjoyer since forever |
-| ☕ | powered by tea & curiosity |
+![Python](https://img.shields.io/badge/Python-%23FFB3D9?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23FFD6EC?style=for-the-badge&logo=git&logoColor=c06080)
+![GitHub](https://img.shields.io/badge/GitHub-%23E8D5FF?style=for-the-badge&logo=github&logoColor=7b5ea7)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23D5EAFF?style=for-the-badge&logo=visual-studio-code&logoColor=5b8dd9)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFE8D5?style=for-the-badge&logo=JavaScript&logoColor=c06030)
+![Django](https://img.shields.io/badge/Django-%23F5D5FF?style=for-the-badge&logo=Django&logoColor=805090)
 
 </div>
 
 ---
 
-<!-- ✿ SKILLS ✿ -->
+## 🌷 `what i'm up to`
+
+| | |
+|:---:|:---|
+| 🌱 | **learning** → `[ JavaScript, C, ML, Math, Computer Science]` |
+| 🔭 | **building** → `[ HumixAI app, SchoolCRM, course for kids ]` |
+| 🎀 | **teaching** → Python fundamentals & beyond |
+| 💬 | **ask me about** → Python · clean code · how to start |
+| ⚡ | **fun fact** → `[ I believe in a decentralized world with kind AI ]` |
+
+---
+
+## 📊 `github stats`
+
 <div align="center">
 
-### 💾 ˚ · . my skills . · ˚ 💾
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=fff5f9&title_color=d68fa8&icon_color=c9b8ff&text_color=9b6dff&ring_color=ffb3d9)
+&nbsp;
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=fff5f9&title_color=d68fa8&text_color=9b6dff)
 
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=ff90c2)
-![Git](https://img.shields.io/badge/Git-FFE4F0?style=for-the-badge&logo=git&logoColor=ff6b9d)
-![GitHub](https://img.shields.io/badge/GitHub-F0E6FF?style=for-the-badge&logo=github&logoColor=9b6dff)
-![VS Code](https://img.shields.io/badge/VSCode-E6F4FF?style=for-the-badge&logo=visual-studio-code&logoColor=5ba3f5)
-![Markdown](https://img.shields.io/badge/Markdown-FFF5E6?style=for-the-badge&logo=markdown&logoColor=ff9b5e)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=fff5f9&ring=ffb3d9&fire=d68fa8&currStreakLabel=9b6dff&sideLabels=9b6dff&currStreakNum=d68fa8&sideNums=d68fa8&dates=c0a0cc)
 
 </div>
 
 ---
 
-<!-- ✿ STATS ✿ -->
-<div align="center">
-
-### 📊 ˚ · . my github stats . · ˚ 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=fff0f8&title_color=ff90c2&icon_color=ffb3d1&text_color=9b6dff&ring_color=ffb3d1" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=fff0f8&title_color=ff90c2&text_color=9b6dff" height="160"/>
-
-</div>
+## 💌 `find me`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=fff0f8&ring=ffb3d1&fire=ff90c2&currStreakLabel=9b6dff&sideLabels=9b6dff&currStreakNum=ff90c2&sideNums=ff90c2&dates=c0a0cc" />
+[![Telegram](https://img.shields.io/badge/Telegram-ffb3d9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samadhi404)
+[![Instagram](https://img.shields.io/badge/Instagram-e8d5ff?style=for-the-badge&logo=instagram&logoColor=9b6dff)](https://instagram.com/shanti.sabai)
+
 
 </div>
 
 ---
 
-<!-- ✿ CURRENTLY ✿ -->
 <div align="center">
 
-### 🌷 ˚ · . what i'm up to . · ˚ 🌷
+`✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
 
-</div>
+*be happy and learn more <3 🩷*
 
-```
-🌱 currently learning  ➜  [ fill in what you're studying ]
-🔭 working on          ➜  [ your current project ]
-💬 ask me about        ➜  Python, teaching, how to make cute readmes
-📫 reach me at         ➜  [ your email or social ]
-⚡ fun fact            ➜  [ something cute about you ]
-```
+`✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
 
----
-
-<!-- ✿ CONTACT ✿ -->
-<div align="center">
-
-### 💌 ˚ · . find me . · ˚ 💌
-
-[![Telegram](https://img.shields.io/badge/Telegram-FFD6F0?style=for-the-badge&logo=telegram&logoColor=ff90c2)](https://t.me/YOUR_TG)
-[![Instagram](https://img.shields.io/badge/Instagram-F0D6FF?style=for-the-badge&logo=instagram&logoColor=9b6dff)](https://instagram.com/YOUR_IG)
-[![Email](https://img.shields.io/badge/Email-D6F0FF?style=for-the-badge&logo=gmail&logoColor=5ba3f5)](mailto:YOUR@EMAIL.COM)
-
-</div>
-
----
-
-<!-- ✿ FOOTER ✿ -->
-<div align="center">
-
-```
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
-```
-
-*✨ thanks for visiting my little corner of the internet ✨*
-
-*made with 🩷 and way too much tea*
-
-```
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
-```
-
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ffb3d9,ffd6ec,c9b8ff&height=100&section=footer)
 
 </div>
