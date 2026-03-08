@@ -55,10 +55,7 @@ class AboutMe:
 |:---:|:---|
 | 🌱 | **learning** → `[ JavaScript, C, ML, Math, Computer Science]` |
 | 🔭 | **building** → `[ HumixAI app, SchoolCRM, course for kids ]` |
-| 🎀 | **teaching** → Python fundamentals & beyond |
-| 💬 | **ask me about** → Python · clean code · how to start |
 | ⚡ | **fun fact** → `[ I believe in a decentralized world with kind AI ]` |
-
 
 ---
 
