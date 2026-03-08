@@ -26,10 +26,11 @@ class AboutMe:
     role        = "Python Teacher 🐍 and developer"
     based_in    = "🌍 Earth"
     languages   = ["Python 🐍","JavaScript","C", "English", "Russian"]
-    hobbies     = ["coding", "teaching", "aesthetic things ✨", "learning", "drawing"]
+    hobbies     = ["coding", "teaching", "aesthetic things ✨", "learning", "drawing", "travel"]
     currently   = "create any projects and learn ML "
     belief      = "Consciousness is like a protocol"
     fun_fact    = "I love anime and palying Dota2"
+    learning    = ["JavaScript", "C", "ML", "Math", "Computer Science", "System Design","Rust"]
 ```
 
 ---
@@ -46,16 +47,6 @@ class AboutMe:
 ![Django](https://img.shields.io/badge/Django-%23F5D5FF?style=for-the-badge&logo=Django&logoColor=805090)
 
 </div>
-
----
-
-## 🌷 `what i'm up to`
-
-| | |
-|:---:|:---|
-| 🌱 | **learning** → `[ JavaScript, C, ML, Math, Computer Science]` |
-| 🔭 | **building** → `[ HumixAI app, SchoolCRM, course for kids ]` |
-| ⚡ | **fun fact** → `[ I believe in a decentralized world with kind AI ]` |
 
 ---
 
