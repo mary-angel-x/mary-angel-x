@@ -10,7 +10,7 @@
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
 
-**she/her · python teacher · AI dreamer · curios developer · vegan · travaler**
+**she/her · python teacher · AI researcher · curios developer · vegan · travaler**
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
 
