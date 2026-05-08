@@ -25,7 +25,7 @@ class AboutMe:
     name        = "MARIA"
     role        = "Python Teacher 🐍 and developer"
     based_in    = "🌍 Earth"
-    languages   = ["Python 🐍","JavaScript","C", "English", "Russian"]
+    languages   = ["Python 🐍","C", "English", "Russian"]
     hobbies     = ["coding", "teaching", "aesthetic things ✨", "learning", "drawing", "travel"]
     currently   = "create any projects and learn ML "
     belief      = "Consciousness is like a protocol"
