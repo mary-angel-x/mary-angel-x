@@ -26,7 +26,7 @@ class AboutMe:
     role        = "Python Teacher 🐍 and developer"
     based_in    = "🌍 Earth"
     languages   = ["Python 🐍","C", "English", "Russian"]
-    hobbies     = ["coding", "teaching", "aesthetic things ✨", "learning", "drawing", "travel"]
+    hobbies     = ["coding", "teaching", "play Dota2", "learning", "travel"]
     currently   = "create any projects and learn ML "
     belief      = "Consciousness is like a protocol"
     fun_fact    = "I love anime and palying Dota2"
