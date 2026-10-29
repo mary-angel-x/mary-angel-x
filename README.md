@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:c026d3,100:ec4899&height=230&section=header&text=Hello%20Earth!&fontSize=64&fontColor=b6ffc8&animation=fadeIn&fontAlignY=36&desc=welcome%20to%20my%20little%20github%20page%20✨&descAlignY=56&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8b4fe,50:e9d5ff,100:fbcfe8&height=230&section=header&text=Hello%20Earth!&fontSize=64&fontColor=4d7c0f&animation=fadeIn&fontAlignY=36&desc=🍄%20welcome%20to%20my%20little%20mossy%20corner%20of%20github%20🍄&descAlignY=56&descSize=17" width="100%"/>
 
 <a href="https://github.com/mary-angel-x">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=520&lines=Python+Teacher+%F0%9F%90%8D;AI+Researcher+%F0%9F%94%AC;Mechanistic+Interpretability+%E2%9C%A8;Curious+Developer+%F0%9F%92%BB;Nomad+%C2%B7+Vegan+%C2%B7+Dreamer+%F0%9F%8C%8D" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=65A30D&center=true&vCenter=true&width=560&lines=Python+Teacher+%F0%9F%90%8D;AI+Researcher+%F0%9F%94%AC;Mechanistic+Interpretability+%E2%9C%A8;Curious+Developer+%F0%9F%8D%84;Nomad+%C2%B7+Vegan+%C2%B7+Forest+Goblin+%F0%9F%90%B8" alt="typing" />
 </a>
 
-`✦` `✧` `✦` `✧` `✦` `✧` `✦`
+🍄 🌿 🐸 🌿 🍄 🌿 🐌 🌿 🍄
 
 **she/her · python teacher · AI researcher · curious developer · vegan · traveler**
 
-`✦` `✧` `✦` `✧` `✦` `✧` `✦`
+🍄 🌿 🐸 🌿 🍄 🌿 🐌 🌿 🍄
 
 </div>
 
 <br/>
 
-## 🌸 `about me`
+## 🍄 `about me`
 
 ```python
 class AboutMe:
@@ -30,12 +30,12 @@ class AboutMe:
     belief     = "Consciousness is like a protocol"
 
     def say_hi(self):
-        print("Thanks for stopping by! ✨")
+        print("Thanks for wandering into my forest! 🐸")
 ```
 
 <br/>
 
-## 🔭 `what i'm working on`
+## 🐸 `what i'm working on`
 
 <table>
 <tr>
@@ -62,47 +62,47 @@ An **HTML/CSS course for kids** — building first websites step by step.
 
 <br/>
 
-## 💾 `skills & tools`
+## 🌿 `skills & tools`
 
 <div align="center">
 
 **languages**
 
-![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=b6ffc8)
-![HTML5](https://img.shields.io/badge/HTML5-C026D3?style=for-the-badge&logo=html5&logoColor=b6ffc8)
-![CSS3](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=b6ffc8)
+![Python](https://img.shields.io/badge/Python-D8B4FE?style=for-the-badge&logo=python&logoColor=4d7c0f)
+![HTML5](https://img.shields.io/badge/HTML5-FBCFE8?style=for-the-badge&logo=html5&logoColor=4d7c0f)
+![CSS3](https://img.shields.io/badge/CSS3-E9D5FF?style=for-the-badge&logo=css3&logoColor=4d7c0f)
 
 **frameworks & libraries**
 
-![Django](https://img.shields.io/badge/Django-9333EA?style=for-the-badge&logo=django&logoColor=b6ffc8)
-![Pygame](https://img.shields.io/badge/Pygame-DB2777?style=for-the-badge&logo=python&logoColor=b6ffc8)
-![NumPy](https://img.shields.io/badge/NumPy-A855F7?style=for-the-badge&logo=numpy&logoColor=b6ffc8)
+![Django](https://img.shields.io/badge/Django-F5D0FE?style=for-the-badge&logo=django&logoColor=4d7c0f)
+![Pygame](https://img.shields.io/badge/Pygame-D8B4FE?style=for-the-badge&logo=python&logoColor=4d7c0f)
+![NumPy](https://img.shields.io/badge/NumPy-FBCFE8?style=for-the-badge&logo=numpy&logoColor=4d7c0f)
 
 **ML & interpretability**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=b6ffc8)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-C026D3?style=for-the-badge&logo=huggingface&logoColor=b6ffc8)
-![einops](https://img.shields.io/badge/einops-EC4899?style=for-the-badge&logo=python&logoColor=b6ffc8)
-![Ollama](https://img.shields.io/badge/Ollama-9333EA?style=for-the-badge&logo=ollama&logoColor=b6ffc8)
+![PyTorch](https://img.shields.io/badge/PyTorch-E9D5FF?style=for-the-badge&logo=pytorch&logoColor=4d7c0f)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F5D0FE?style=for-the-badge&logo=huggingface&logoColor=4d7c0f)
+![einops](https://img.shields.io/badge/einops-D8B4FE?style=for-the-badge&logo=python&logoColor=4d7c0f)
+![Ollama](https://img.shields.io/badge/Ollama-FBCFE8?style=for-the-badge&logo=ollama&logoColor=4d7c0f)
 
 **tools**
 
-![Git](https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=b6ffc8)
-![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=b6ffc8)
-![VS Code](https://img.shields.io/badge/VS%20Code-A855F7?style=for-the-badge&logo=visualstudiocode&logoColor=b6ffc8)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-C026D3?style=for-the-badge&logo=claude&logoColor=b6ffc8)
+![Git](https://img.shields.io/badge/Git-E9D5FF?style=for-the-badge&logo=git&logoColor=4d7c0f)
+![GitHub](https://img.shields.io/badge/GitHub-F5D0FE?style=for-the-badge&logo=github&logoColor=4d7c0f)
+![VS Code](https://img.shields.io/badge/VS%20Code-D8B4FE?style=for-the-badge&logo=visualstudiocode&logoColor=4d7c0f)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-FBCFE8?style=for-the-badge&logo=claude&logoColor=4d7c0f)
 
 </div>
 
 <br/>
 
-## 💌 `find me`
+## 🐌 `find me`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=b6ffc8)](https://mary-angel-x.github.io)
-[![Telegram](https://img.shields.io/badge/Telegram-C026D3?style=for-the-badge&logo=telegram&logoColor=b6ffc8)](https://t.me/samadhi404)
-[![Instagram](https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=b6ffc8)](https://instagram.com/shanti.sabai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D8B4FE?style=for-the-badge&logo=githubpages&logoColor=4d7c0f)](https://mary-angel-x.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-FBCFE8?style=for-the-badge&logo=telegram&logoColor=4d7c0f)](https://t.me/samadhi404)
+[![Instagram](https://img.shields.io/badge/Instagram-E9D5FF?style=for-the-badge&logo=instagram&logoColor=4d7c0f)](https://instagram.com/shanti.sabai)
 
 </div>
 
@@ -110,10 +110,10 @@ An **HTML/CSS course for kids** — building first websites step by step.
 
 <div align="center">
 
-`✦` `✧` `✦` `✧` `✦` `✧` `✦`
+🍄 🌿 🐸 🌿 🍄 🌿 🐌 🌿 🍄
 
-*be happy and learn more <3 💜*
+*be happy, stay curious and learn more <3 🍄*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:c026d3,100:7c3aed&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcfe8,50:e9d5ff,100:d8b4fe&height=120&section=footer" width="100%"/>
 
 </div>
