@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1200&color=5CC98A&center=true&vCenter=true&width=620&lines=Python+Teacher+%F0%9F%90%8D;AI+Researcher+%F0%9F%94%AC;Mechanistic+Interpretability+%E2%9C%A8;Curious+Developer+%F0%9F%8D%84;Nomad+%C2%B7+Vegan+%C2%B7+Forest+Goblin+%F0%9F%90%B8" alt="typing" />
 </a>
 
-🍄 🌿 🐸 🌿 🍄 🌿 🐌 🌿 🍄
+<img src="./divider.svg" width="100%" alt="010101"/>
 
 **she/her · python teacher · AI researcher · curious developer · vegan · traveler**
 
-🍄 🌿 🐸 🌿 🍄 🌿 🐌 🌿 🍄
+<img src="./divider.svg" width="100%" alt="010101"/>
 
 </div>
 
@@ -110,7 +110,7 @@ An **HTML/CSS course for kids** — building first websites step by step.
 
 <div align="center">
 
-🍄 🌿 🐸 🌿 🍄 🌿 🐌 🌿 🍄
+<img src="./divider.svg" width="100%" alt="010101"/>
 
 <img src="./footer.svg" width="100%" alt="be happy, stay curious and learn more"/>
 
