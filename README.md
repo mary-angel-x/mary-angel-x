@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4fc79,50:96e6a1,100:a8edea&height=230&section=header&text=Hello%20Earth!&fontSize=64&fontColor=2f6b4a&animation=fadeIn&fontAlignY=36&desc=welcome%20to%20my%20little%20github%20page%20✨&descAlignY=56&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:c026d3,100:ec4899&height=230&section=header&text=Hello%20Earth!&fontSize=64&fontColor=b6ffc8&animation=fadeIn&fontAlignY=36&desc=welcome%20to%20my%20little%20github%20page%20✨&descAlignY=56&descSize=17" width="100%"/>
 
 <a href="https://github.com/mary-angel-x">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3FA66B&center=true&vCenter=true&width=520&lines=Python+Teacher+%F0%9F%90%8D;AI+Researcher+%F0%9F%94%AC;Mechanistic+Interpretability+%E2%9C%A8;Curious+Developer+%F0%9F%92%BB;Nomad+%C2%B7+Vegan+%C2%B7+Dreamer+%F0%9F%8C%8D" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=520&lines=Python+Teacher+%F0%9F%90%8D;AI+Researcher+%F0%9F%94%AC;Mechanistic+Interpretability+%E2%9C%A8;Curious+Developer+%F0%9F%92%BB;Nomad+%C2%B7+Vegan+%C2%B7+Dreamer+%F0%9F%8C%8D" alt="typing" />
 </a>
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦`
@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🌿 `about me`
+## 🌸 `about me`
 
 ```python
 class AboutMe:
@@ -68,29 +68,29 @@ An **HTML/CSS course for kids** — building first websites step by step.
 
 **languages**
 
-![Python](https://img.shields.io/badge/Python-96E6A1?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C8F5D0?style=for-the-badge&logo=html5&logoColor=2f6b4a)
-![CSS3](https://img.shields.io/badge/CSS3-A8EDEA?style=for-the-badge&logo=css3&logoColor=2a7a73)
+![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=b6ffc8)
+![HTML5](https://img.shields.io/badge/HTML5-C026D3?style=for-the-badge&logo=html5&logoColor=b6ffc8)
+![CSS3](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=b6ffc8)
 
 **frameworks & libraries**
 
-![Django](https://img.shields.io/badge/Django-D4FC79?style=for-the-badge&logo=django&logoColor=4a6b1f)
-![Pygame](https://img.shields.io/badge/Pygame-E3F9D8?style=for-the-badge&logo=python&logoColor=3f7a3a)
-![NumPy](https://img.shields.io/badge/NumPy-A8EDEA?style=for-the-badge&logo=numpy&logoColor=2a7a73)
+![Django](https://img.shields.io/badge/Django-9333EA?style=for-the-badge&logo=django&logoColor=b6ffc8)
+![Pygame](https://img.shields.io/badge/Pygame-DB2777?style=for-the-badge&logo=python&logoColor=b6ffc8)
+![NumPy](https://img.shields.io/badge/NumPy-A855F7?style=for-the-badge&logo=numpy&logoColor=b6ffc8)
 
 **ML & interpretability**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-C8F5D0?style=for-the-badge&logo=pytorch&logoColor=2f6b4a)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-E3F9D8?style=for-the-badge&logo=huggingface&logoColor=3f7a3a)
-![einops](https://img.shields.io/badge/einops-B8F0E0?style=for-the-badge&logo=python&logoColor=2f6b5a)
-![Ollama](https://img.shields.io/badge/Ollama-D4FC79?style=for-the-badge&logo=ollama&logoColor=4a6b1f)
+![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=b6ffc8)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-C026D3?style=for-the-badge&logo=huggingface&logoColor=b6ffc8)
+![einops](https://img.shields.io/badge/einops-EC4899?style=for-the-badge&logo=python&logoColor=b6ffc8)
+![Ollama](https://img.shields.io/badge/Ollama-9333EA?style=for-the-badge&logo=ollama&logoColor=b6ffc8)
 
 **tools**
 
-![Git](https://img.shields.io/badge/Git-C8F5D0?style=for-the-badge&logo=git&logoColor=2f6b4a)
-![GitHub](https://img.shields.io/badge/GitHub-B8F0E0?style=for-the-badge&logo=github&logoColor=2f6b5a)
-![VS Code](https://img.shields.io/badge/VS%20Code-A8EDEA?style=for-the-badge&logo=visualstudiocode&logoColor=2a7a73)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-E3F9D8?style=for-the-badge&logo=claude&logoColor=3f7a3a)
+![Git](https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=b6ffc8)
+![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=b6ffc8)
+![VS Code](https://img.shields.io/badge/VS%20Code-A855F7?style=for-the-badge&logo=visualstudiocode&logoColor=b6ffc8)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-C026D3?style=for-the-badge&logo=claude&logoColor=b6ffc8)
 
 </div>
 
@@ -100,9 +100,9 @@ An **HTML/CSS course for kids** — building first websites step by step.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7CCF9A?style=for-the-badge&logo=githubpages&logoColor=white)](https://mary-angel-x.github.io)
-[![Telegram](https://img.shields.io/badge/Telegram-96E6A1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samadhi404)
-[![Instagram](https://img.shields.io/badge/Instagram-B8F0E0?style=for-the-badge&logo=instagram&logoColor=2f6b4a)](https://instagram.com/shanti.sabai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=b6ffc8)](https://mary-angel-x.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-C026D3?style=for-the-badge&logo=telegram&logoColor=b6ffc8)](https://t.me/samadhi404)
+[![Instagram](https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=b6ffc8)](https://instagram.com/shanti.sabai)
 
 </div>
 
@@ -112,8 +112,8 @@ An **HTML/CSS course for kids** — building first websites step by step.
 
 `✦` `✧` `✦` `✧` `✦` `✧` `✦`
 
-*be happy and learn more <3 💚*
+*be happy and learn more <3 💜*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,50:96e6a1,100:d4fc79&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:c026d3,100:7c3aed&height=120&section=footer" width="100%"/>
 
 </div>
