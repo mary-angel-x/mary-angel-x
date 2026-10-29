@@ -29,8 +29,6 @@ class AboutMe:
     learning   = ["C", "ML", "Math", "Computer Science", "System Design"]
     belief     = "Consciousness is like a protocol"
 
-    def say_hi(self):
-        print("Thanks for wandering into my forest! 🐸")
 ```
 
 <br/>
